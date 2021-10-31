@@ -1,4 +1,4 @@
-[계기](https://www.notion.so/b0f9456ceaf84fe793bf6fabcd2d8dfd)
+[계기](https://octagonal-class-026.notion.site/b0f9456ceaf84fe793bf6fabcd2d8dfd)
 [Tech Stack](https://www.notion.so/Tech-Stack-ac1ed9df02814e68a88d018c99848da6)
 [Service Flow](https://www.notion.so/Service-Flow-ffa08899f3254c05acd22d77e11da888)
 [DataBase Structure](https://www.notion.so/DataBase-Structure-2897ca1404f64487bba9b93624318729)
