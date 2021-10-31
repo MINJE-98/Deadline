@@ -1,2 +1,8 @@
-### 계기 [https://www.notion.so/b0f9456ceaf84fe793bf6fabcd2d8dfd](계기)
-
+[계기](https://www.notion.so/b0f9456ceaf84fe793bf6fabcd2d8dfd)
+[Tech Stack](https://www.notion.so/Tech-Stack-ac1ed9df02814e68a88d018c99848da6)
+[Service Flow](https://www.notion.so/Service-Flow-ffa08899f3254c05acd22d77e11da888)
+[DataBase Structure](https://www.notion.so/DataBase-Structure-2897ca1404f64487bba9b93624318729)
+[EndPoint](https://www.notion.so/EndPoint-501710e817de4be3b2030da167773893)
+[Error Code](https://www.notion.so/a40e90495bbf4a6280c3aaf475d3e499?v=da125f9f75c54a42914a1f448800ff29)
+[배운점](https://www.notion.so/3a5cc320cdd94de785226710b75095b2)
+[시연영상](https://www.notion.so/94ada57d79474b1aac5520bf77bada4d)
