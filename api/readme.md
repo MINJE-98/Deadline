@@ -1,8 +1,14 @@
 # Deadline-api
-[Tech Stack](#Tech-Stack)
-[Service Flow](#Service-Flow)
-[EndPoint](#EndPoint)
-[DataBase Structure](#DataBase-Structure)
+> 지금 보니까 엉망진창..
+
+처음으로 처음부터 끝까지 백엔드를 구성해보고 구현까지 해보려고 한다.
+자바스크립트도 모르면서 무슨 백엔드냐? 할수있다. 시작이 반이라고 하듯 일단 구현해볼 계획이다.
+
+목차
+1. [Tech Stack](#Tech-Stack)
+2. [Service Flow](#Service-Flow)
+3. [EndPoint](#EndPoint)
+4. [DataBase Structure](#DataBase-Structure)
 
 # Tech Stack
 - NodeJS/ExpressJS
@@ -629,4 +635,3 @@ PUT /api/item
 ### 삭제
 
 DELETE /api/item
-
