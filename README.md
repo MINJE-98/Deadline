@@ -1,9 +1,10 @@
 # DeadLine(그룹별 유통기한 관리)
-## 제작 계기
-집에서 세븐일레븐을 운영하고있는데 유통기한 관련해서 관리해주는 프로그램이 존재하지않아 외부 어플을 사용하고 있었다. 
-그런데 그 어플을 제대로 사용하기위해서는 월 구독료를 지불해야 제대로 사용할 수 있었다.
-어플 구독료를 낼만큼 엄청난 프로젝트가 아니였기에 그냥 무작정 시작해보기로 하였다.
+편의점, 음식점등 식품에 관련해서 유통기한을 관리하는 어플을 목표로 했던 프로젝트입니다.
 ## Tech Stack
-## Service Flow
+### BackEnd
+- NodeJS/ExpressJS
+- MySQL
+### FrontEnd
+- ReactNative/Expo
 ## 결과물
-## 배운점
+[결과물] (https://youtu.be/_gnYCD-SFpA)(https://youtu.be/_gnYCD-SFpA)
