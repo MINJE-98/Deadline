@@ -349,6 +349,285 @@ ALTER TABLE teamembers
 -- [teams]가 삭제 되었을 경우 => 부모와 같이 업데이트 됩니다.
 -- [teams]가 업데이트 되었을 경우 => 부모와 같이 업데이트 됩니다.
 ```
-## EndPoint
-## ErrorCode
+# EndPoint
+EndPoint를 문서화 하여보았다.
+
+## 인증(auth)
+
+### 로그인
+
+POST /api/auth
+
+### 유저 정보
+
+GET /api/auth
+
+### 삭제
+
+DELETE /api/auth
+
+### 수정
+
+PUT /api/auth
+
+## 팀(teams)
+
+### 생성
+
+POST /api/teams
+
+### 읽기
+
+GET /api/teams
+
+### 팀에 귀속된 아이템
+
+GET / api/teams/items
+
+### 삭제
+
+DELETE /api/teams
+
+### 수정
+
+PUT /api/teams
+
+## 팀에 소속된 유저(members)
+
+### 가입
+
+POST /api/teams/members
+
+### 팀에 가입된 유저 읽기
+
+GET /api/teams/members
+
+### 한명의 유저가 가입한 팀들 읽기
+
+GET /api/teams/members/teamlist
+
+### 팀 탈퇴
+
+DLELTE /api/teams/members
+
+## 팀 태그
+
+### 생성
+
+POST /api/tags
+
+### 읽기
+
+GET /api/tagid
+
+### 수정
+
+PUT /api/tagid
+
+### 삭제
+
+DELETE /api/tagid
+
+# 유통기한(Deadline)
+
+### 생성
+
+POST /api/deadline
+
+BODY
+
+- goodsid
+- prodname
+- imageURL
+- barcode
+- expdate
+- teamuid
+
+### 읽기
+
+GET /api/deadline
+
+### 수정
+
+PUT /api/deadline
+
+### 삭제
+
+DELETE /api/deadline
+
+# 상품(items)
+
+### 생성
+
+POST /api/items
+
+BODY
+
+- barcode
+- prodname
+- teamuid
+- imageURL
+
+### 바코드가 팀에 있는지 확인
+
+GET /api/items
+
+- barcode
+
+### 바코드를 가지고있는 팀 확인
+
+GET /api/items/list
+
+- barcode
+
+## Headers : token, teamuid
+
+### 수정
+
+PUT /api/item
+
+### 삭제
+
+Headers : token
+
+DELETE /api/item
+
+### 토큰 생성
+
+POST /api/auth
+
+### 토큰 확인
+
+GET /api/auth
+
+### 토큰 제거
+
+DELETE /api/auth
+
+# 팀(teams)
+
+Headers : token
+
+### 팀 생성
+
+POST /api/teams
+
+### 자신이 가입한 팀 불러오기
+
+GET /api/teams
+
+### 팀에 귀속된 아이템
+
+GET / api/teams/items
+
+### 팀 삭제
+
+DELETE /api/teams
+
+### 팀 수정
+
+PUT /api/teams
+
+## 팀에 소속된 유저(members)
+
+Headers : token, teamuid
+
+### 팀에 가입
+
+POST /api/teams/members
+
+BODY
+
+- state
+
+### 팀에 가입된 유저 확인
+
+GET /api/teams/members
+
+### 특정 유저가 가입한 팀들 확인
+
+GET /api/teams/members/teamlist
+
+### 팀 탈퇴
+
+DLELTE /api/teams/members
+
+# 팀 테그
+
+Headers : token, teamuid
+
+### 테그 생성
+
+POST /api/tags
+
+### 테그 불러오기
+
+GET /api/tagid
+
+### 테그 수정
+
+PUT /api/tagid
+
+### 테그 삭제
+
+DELETE /api/tagid
+
+# 유통기한(Deadline)
+
+Headers : token, teamuid
+
+### 유통기한 생성
+
+POST /api/deadline
+
+BODY
+
+- teamuid
+- goodsid
+- expdate
+- barcode
+- prodname
+- imageURL
+
+### 유통기한 불러오기
+
+GET /api/deadline
+
+### 유통기한 수정
+
+PUT /api/deadline
+
+### 유통기한 삭제
+
+DELETE /api/deadline
+
+# 상품(items)
+
+Headers : token, teamuid
+
+### 상품 생성
+
+POST /api/items/barcode
+
+BODY
+
+- prodname
+- teamuid
+- imageURL
+
+### 바코드가 팀에 있는지 확인
+
+GET /api/barcode
+
+### 바코드를 가지고있는 팀 확인
+
+GET /api/items/barcode
+
+### 수정
+
+PUT /api/item
+
+### 삭제
+
+DELETE /api/item
 
