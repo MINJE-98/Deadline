@@ -2,22 +2,18 @@
 [EndPoint](#EndPoint)
 [DataBase](#DataBase)
 [ErrorCode](#ErrorCode)
-## Tech Stack
+# Tech Stack
 - NodeJS/ExpressJS
 - MySQL
 - AWS/S3
-## Service Flow
-## DataBase
-# DataBase Structure
-# DataBase Structure
+# Service Flow
+# DataBase
+## DataBase Structure
 
-서비스 흐름을 작성 하고 보니 테이블과 컬럼이 어떻게 이루어져있어야할지 약간 감이 왔고, 어느 블로그에서 하고 있는 방식으로 데이터베이스 구조를 잡아보기로 하여 따라 해보았다.
+서비스 흐름을 작성 하고 보니 데이터베이스가 어떻게 이루어져있어야할지 약간 감이 왔고, 어느 블로그에서 하고 있는 방식으로 데이터베이스 구조를 잡아보기로 하여 따라 해보았다.
 
-# 객개념적 설계로 ER 다이어그램 만들기
-
----
-
-## 객체와 속성을 추출하기
+## 객개념적 설계로 ER 다이어그램 만들기
+### 객체와 속성을 추출하기
 
 ER 다이어그램을 그리기 위해 나의 테이블과 각 테이블의 원소가 어떻게 이루어져있는지 알아야 ER다이어그램을 그릴 수 있다.
 
@@ -66,13 +62,13 @@ ER 다이어그램을 그리기 위해 나의 테이블과 각 테이블의 원�
 태그(필수) : 태그는 여러개의 유통기한을 가질 수 있다.
 유통기한(선택) : 유통기한은 아이템이미지, 태그를 하나씩 가져야한다. | 1:N | 유통기한은 아이템이미지, 태그 없이 존재할 수 없다. |
 
-# ER 다이어그램
+## ER 다이어그램
 
 위의 **객체속성추출**과 **관계추츨**을 통해 ER다이어그램을 그려보았다.
 
 ![ER다이어그램](https://www.notion.so/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fcf79355e-2a0d-49c8-a0fd-557d642a4795%2FUntitled_Diagram_(1).jpg?table=block&id=b44eeecf-e09d-410f-8c5a-3ad239256957&spaceId=a04f626d-9036-4e52-9f18-df6d86bf1c87&name=Untitled_Diagram_(1).jpg&userId=7e8373b0-fe91-4344-83b7-6f2def8c26b3&cache=v2)
 
-# SQL
+## SQL
 
 ER다이어그램에 해당하는 쿼리문은 아래와 같다.
 
