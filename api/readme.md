@@ -70,7 +70,7 @@ ER 다이어그램을 그리기 위해 나의 테이블과 각 테이블의 원�
 
 위의 **객체속성추출**과 **관계추츨**을 통해 ER다이어그램을 그려보았다.
 
-![DataBase%20S%20b44ee/Untitled_Diagram_(1).jpg](DataBase%20S%20b44ee/Untitled_Diagram_(1).jpg)
+![ER다이어그램](https://www.notion.so/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fcf79355e-2a0d-49c8-a0fd-557d642a4795%2FUntitled_Diagram_(1).jpg?table=block&id=b44eeecf-e09d-410f-8c5a-3ad239256957&spaceId=a04f626d-9036-4e52-9f18-df6d86bf1c87&name=Untitled_Diagram_(1).jpg&userId=7e8373b0-fe91-4344-83b7-6f2def8c26b3&cache=v2)
 
 # SQL
 
