@@ -2,6 +2,11 @@
 > 배포되지 않은 프로젝트입니다.
 
 편의점, 음식점등 식품에 관련해서 유통기한을 관리하는 어플을 목표로 했던 프로젝트입니다.
+# Contents
+1. [BackEnd Repo](#BackEnd-Repo)
+2. [FrontEnd Repo](#FrontEnd-Repo)
+3. [Service Flow](#Service-Flow)
+4. [Output](#Output)
 
 # [BackEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/api)
 # [FrontEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/client)
@@ -139,5 +144,6 @@
 ### 특정 유통기한 정보
 1. 등록된 특정 유통기한 정보를 반환합니다.
 
-# 결과물
-[![결과물](https://user-images.githubusercontent.com/56459078/154798156-16ebb655-4c61-4efa-816a-e865318e8bdb.png)](https://youtu.be/_gnYCD-SFpA)
+# Output
+> 프로토타입으로 끝이지만 꼭 런칭까지 해보고싶다.
+[![Output](https://user-images.githubusercontent.com/56459078/154798156-16ebb655-4c61-4efa-816a-e865318e8bdb.png)](https://youtu.be/_gnYCD-SFpA)
