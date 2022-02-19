@@ -7,4 +7,4 @@
 ### FrontEnd
 - ReactNative/Expo
 ## 결과물
-[결과물] (https://youtu.be/_gnYCD-SFpA)(https://youtu.be/_gnYCD-SFpA)
+{% include media.html id="gnYCD-SFpA" %}
