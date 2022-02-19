@@ -9,10 +9,19 @@
 4. [Output](#Output)
 
 # [BackEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/api)
+BackEnd에 대한 레포입니다.
+
+자세한 내용은 README를 참조해주세요.
+
 # [FrontEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/client)
+FrontEnd에 대한 레포입니다.
+
+자세한 내용은 README를 참조해주세요.
 
 # Service Flow
-사용할 기술스택을 정하였으면 내가 생각하는 서비스를 하나하나 작성해보기로 하였다.
+정말 수도없이 생각하고 프로젝트를 다시 처음부터 시작하거나 그날그날 기분에 따라 기능이 바뀌는 이상한 상황이 자주 발생했다.
+
+위와 같은 상황을 줄이고자  서비스 플로우를 작성하게 되었다.
 
 ## 인증(AUTH)
 ❗방식을 기준으로 인증을 구현 해보았습니다.
@@ -146,4 +155,5 @@
 
 # Output
 > 프로토타입으로 끝이지만 꼭 런칭까지 해보고싶다.
+
 [![Output](https://user-images.githubusercontent.com/56459078/154798156-16ebb655-4c61-4efa-816a-e865318e8bdb.png)](https://youtu.be/_gnYCD-SFpA)
