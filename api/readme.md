@@ -1,9 +1,9 @@
 # Deadline-api
-[EndPoint][EndPoint]
+[EndPoint](#EndPoint)
 ## Tech Stack
 - NodeJS/ExpressJS
 - MySQL
 - AWS/S3
-## [EndPoint]: EndPoint
+## EndPoint
 ## DataBase
 ## ErrorCode
