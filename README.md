@@ -9,14 +9,14 @@
 4. [Output](#Output)
 
 # [BackEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/api)
+> 자세한 내용은 README를 참조해주세요.
+
 BackEnd에 대한 레포입니다.
 
-자세한 내용은 README를 참조해주세요.
-
 # [FrontEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/client)
-FrontEnd에 대한 레포입니다.
+> 자세한 내용은 README를 참조해주세요.
 
-자세한 내용은 README를 참조해주세요.
+FrontEnd에 대한 레포입니다.
 
 # Service Flow
 정말 수도없이 생각하고 프로젝트를 다시 처음부터 시작하거나 그날그날 기분에 따라 기능이 바뀌는 이상한 상황이 자주 발생했다.
