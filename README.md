@@ -7,8 +7,3 @@
 ## Service Flow
 ## 결과물
 ## 배운점
-
-[배운점](https://octagonal-class-026.notion.site/3a5cc320cdd94de785226710b75095b2)
-
-[시연영상](https://octagonal-class-026.notion.site/94ada57d79474b1aac5520bf77bada4d)
-
