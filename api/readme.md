@@ -7,8 +7,7 @@
 - MySQL
 - AWS/S3
 # Service Flow
-# DataBase
-## DataBase Structure
+# DataBase Structure
 
 서비스 흐름을 작성 하고 보니 데이터베이스가 어떻게 이루어져있어야할지 약간 감이 왔고, 어느 블로그에서 하고 있는 방식으로 데이터베이스 구조를 잡아보기로 하여 따라 해보았다.
 
