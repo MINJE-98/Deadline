@@ -7,4 +7,4 @@
 ### FrontEnd
 - ReactNative/Expo
 ## 결과물
-[![결과물](https://user-images.githubusercontent.com/56459078/154798156-16ebb655-4c61-4efa-816a-e865318e8bdb.png)(https://youtu.be/_gnYCD-SFpA)]
+[![결과물](https://user-images.githubusercontent.com/56459078/154798156-16ebb655-4c61-4efa-816a-e865318e8bdb.png)](https://youtu.be/_gnYCD-SFpA)
