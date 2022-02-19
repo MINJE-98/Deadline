@@ -3,7 +3,6 @@
 [Service Flow](#Service-Flow)
 [EndPoint](#EndPoint)
 [DataBase Structure](#DataBase-Structure)
-[ErrorCode](#ErrorCode)
 
 # Tech Stack
 - NodeJS/ExpressJS
