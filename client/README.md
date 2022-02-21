@@ -4,8 +4,10 @@
 1. [Tech Stack](#Tech-Stack)
 
 # Tech Stack
-- React-Native/Expo
-
+- Expo(React-Native)
+  - Redux
+  - CSS
+  - Router
 
 # Output
 
