@@ -6,7 +6,6 @@
 1. [BackEnd Repo](#BackEnd-Repo)
 2. [FrontEnd Repo](#FrontEnd-Repo)
 3. [Service Flow](#Service-Flow)
-4. [What I learned](What-I-learned)
 
 # [BackEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/api)
 > 자세한 내용은 README를 참조해주세요.
@@ -152,17 +151,3 @@ FrontEnd에 대한 레포입니다.
 
 ### 특정 유통기한 정보
 1. 등록된 특정 유통기한 정보를 반환합니다.
-# What I learned
-## 구조 및 설계의 중요성
-
-정말 프로젝트하면서 다시 설계했었던 기억이 수도없이 많았다.
-
-캡스톤디자인에서 폭포수 모델이니 에자일이니 소프트웨어 설계에 대해 설명했던 적이 있었다.
-
-설명을 들었어도 확 와닿지 않았는데, 실제로 구현하게되니 왜 소프트웨어 설계가 중요한지 알게되는 계기가 되었다.
-
-## 일단 구현부터 해보자
-
-개발에 대한 교과서적인 내용들은 너무 추상적인 것들이 많은것같다. 
-
-추상적이게 되면 아무리 들어도 이해가 되지않는 정말 미쳐버릴거같은 경우가 종종 발생하는데, 나는 그냥 구현이나 Hello World부터 찍어보는게 맞다고 생각한다.
