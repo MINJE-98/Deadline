@@ -8,8 +8,8 @@
 
 # Contents
 1. [Tech Stack](#Tech-Stack)
-2. [EndPoint](#EndPoint)
-3. [DataBase Structure](#DataBase-Structure)
+2. [DataBase Structure](#DataBase-Structure)
+3. [EndPoint](#EndPoint)
 
 # Tech Stack
 - NodeJS/ExpressJS
@@ -17,7 +17,7 @@
 - AWS/S3
 
 # DataBase Structure
-서비스 흐름을 작성 하고 보니 데이터베이스가 어떻게 이루어져있어야할지 약간 감이 왔고, 어느 블로그에서 하고 있는 방식으로 데이터베이스 구조를 잡아보기로 하여 따라 해보았다.
+데이터베이스를 어떻게 구축할지 감이 오지않아 어느 블로그에서 하고 있는 방식으로 데이터베이스 구조를 잡아보기로 하여 따라 해보았다.
 
 ## 객개념적 설계로 ER 다이어그램 만들기
 ### 객체와 속성을 추출하기
