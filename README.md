@@ -152,8 +152,3 @@ FrontEnd에 대한 레포입니다.
 
 ### 특정 유통기한 정보
 1. 등록된 특정 유통기한 정보를 반환합니다.
-
-# Output
-> 프로토타입으로 끝이지만 꼭 런칭까지 해보고싶다.
-
-[![Output](https://user-images.githubusercontent.com/56459078/154798156-16ebb655-4c61-4efa-816a-e865318e8bdb.png)](https://youtu.be/_gnYCD-SFpA)
