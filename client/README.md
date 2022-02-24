@@ -1,5 +1,6 @@
 # 유통기한 관리어플(DeadLine-Client)
-> 리액트가 정말 어려웠었다..
+>나는 html과 css지식으로 프론트 엔드를 너무 쉽게 봤었다. <br>
+>그냥 하나부터 열까지 전부 모르는것 투성이였다.
 
 # Tech Stack
 - Expo(React-Native)
