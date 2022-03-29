@@ -7,6 +7,11 @@
   - Redux
   - CSS
   - Router
+# Project Structure
+**container component data pattern**을 적용하여 프로젝트를 진행하였다.
+
+# State
+상태관리는 redux를 사용하여 거의 모든 상태를 관리하였다.
 
 # QuickView
 
