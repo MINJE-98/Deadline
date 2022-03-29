@@ -1,19 +1,19 @@
 # DeadLine(그룹별 유통기한 관리)
 > 배포되지 않은 프로젝트입니다.
 
-편의점, 음식점등 식품에 관련해서 유통기한을 관리하는 어플을 목표로 했던 프로젝트입니다.
+편의점, 음식점등 식품에 관련해서 유통기한을 관리하는 어플을 목표로 했던 토이 프로젝트입니다.
 # Contents
 1. [BackEnd Repo](#BackEnd-Repo)
 2. [FrontEnd Repo](#FrontEnd-Repo)
 3. [Service Flow](#Service-Flow)
 
 # [BackEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/api)
-> 자세한 내용은 README를 참조해주세요.
+> 자세한 내용은 README를 참고해주세요.
 
 BackEnd에 대한 레포입니다.
 
 # [FrontEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/client)
-> 자세한 내용은 README를 참조해주세요.
+> 자세한 내용은 README를 참고해주세요.
 
 FrontEnd에 대한 레포입니다.
 
