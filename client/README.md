@@ -4,7 +4,9 @@
 - Expo(React-Native)
   - Redux
   - CSS
-  - Router
+  - React-Native Router
+
+
 # Project Structure
 **container component data pattern**을 적용하여 프로젝트를 진행하였다.
 
