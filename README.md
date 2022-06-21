@@ -10,7 +10,8 @@
 # [BackEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/api)
 > 자세한 내용은 README를 참고해주세요.
 
-BackEnd에 대한 레포입니다.
+BackEnd에 대한 레포입니다.![login mov](https://user-images.githubusercontent.com/56459078/174756325-6a9aad57-5885-4729-a8dd-097101a16c4a.gif)
+
 
 # [FrontEnd Repo](https://github.com/MINJE-98/Deadline/tree/master/client)
 > 자세한 내용은 README를 참고해주세요.
