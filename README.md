@@ -148,6 +148,9 @@ FrontEnd에 대한 레포입니다.
 
 ### 유통기한 리스트 정보
 1. 등록된 유통기한 전체 리스트를 반환합니다.
+![create_deadline mov](https://user-images.githubusercontent.com/56459078/174766265-cd6627e0-22ff-4d58-882e-cfb87f27d15d.gif)
+
+
 
 ### 특정 유통기한 정보
 1. 등록된 특정 유통기한 정보를 반환합니다.
